@@ -68,3 +68,5 @@
 
 
 # Now Django Project Ready
+
+KK
